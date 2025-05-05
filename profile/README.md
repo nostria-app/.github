@@ -29,8 +29,8 @@ Nostria is a decentralized organization dedicated to creating powerful software 
 
 We welcome contributors, builders, and visionaries!  
 
-🌐 **Website:** [about.nostria.app](https://about.nostria.app)  
-📢 **Twitter:** [@NostriaApp](https://x.com/nostriaapp))  
+🌐 **Website:** [www.nostria.app](https://www.nostria.app)  
+📢 **Twitter:** [@NostriaApp](https://x.com/nostriaapp)  
 💬 **Community:** [Discord](https://blockcore.net/discord)  
 
 ---
