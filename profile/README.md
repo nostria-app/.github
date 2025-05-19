@@ -21,6 +21,8 @@ Nostria is a decentralized organization dedicated to creating powerful software 
 🔹 **[Nostria](https://github.com/nostria-app/nostria)** - Our awesome Nostr client that is built for global scale.  
 🔹 **[Nostria Signer](https://github.com/nostria-app/nostria-signer)** - We built a remote signer that user's can use to secure their nostr keys.  
 🔹 **[Discovery Relay](https://github.com/nostria-app/discovery-relay)** - To scale globally, we belive Nostr need Discovery Relays, so we made the software.  
+🔹 **[Nostria Find](https://github.com/nostria-app/nostria-find)** - Look up any profile on Nostr.  
+🔹 **[Nostria Notification](https://github.com/nostria-app/nostria-notification)** - Notification service tailored for Nostr.  
 🔹 **More coming soon... Stay tuned!**  
 
 ---
