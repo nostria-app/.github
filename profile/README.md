@@ -52,7 +52,7 @@ If you discover any potential security issues or exploits, please consider repor
 
 More information here:
 
-[SECURITY.md](https://github.com/nostria-app/nostria/SECURITY.md)
+[SECURITY.md](https://github.com/nostria-app/nostria/blob/main/SECURITY.md)
 
 ---
 
