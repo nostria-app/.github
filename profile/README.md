@@ -45,4 +45,15 @@ We welcome contributors, builders, and visionaries!
 
 ---
 
+
+### 🔐 Safe Security Reporting
+
+If you discover any potential security issues or exploits, please consider reporting to us in a safe manner.
+
+More information here:
+
+[SECURITY.md](https://github.com/nostria-app/nostria/SECURITY.md)
+
+---
+
 🚀 **Together, we push decentralized communication to new heights.** Join us and let's build the future!
